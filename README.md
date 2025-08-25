@@ -8,7 +8,7 @@ Dashboards: quick data apps with Streamlit
 
 Highlights:
 Best Thesis Award (2025) — Civil Engineering, IIT Guwahati
-Visiting Researcher (Paid Internship)** — Canada
+Visiting Researcher (Paid Internship) — Canada
 Projects with ArcGIS/ENVI + Python (Qiskit, Pandas, scikit‑learn)
 
 Selected Projects:
