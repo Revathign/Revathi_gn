@@ -9,7 +9,7 @@ Dashboards: quick data apps with Streamlit
 Highlights:
 Best Thesis Award (2025) — Civil Engineering, IIT Guwahati
 Visiting Researcher (Paid Internship)** — Canada
-Projects with ArcGIS/ENVI + Python (rasterio, GDAL, scikit‑learn)
+Projects with ArcGIS/ENVI + Python (Qiskit, Pandas, scikit‑learn)
 
 Selected Projects:
 Flood Mapping with ML — SAR/optical preprocessing → supervised classification → validation
