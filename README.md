@@ -1,7 +1,6 @@
 [Email](revathiiitg@gmail.com) · [LinkedIn](https://www.linkedin.com/in/revathign/) · [Resume](./Revathi_Resume.pdf)
  
-
- What I do:
+What I do:
 GIS & Remote Sensing: image preprocessing, LULC classification, change detection, flood mapping
 Python: raster/vector processing, ML pipelines, automation
 Quantum computing (Qiskit): quantum circuits for simple ML tasks & experimentation
@@ -16,6 +15,7 @@ Selected Projects:
 Flood Mapping with ML — SAR/optical preprocessing → supervised classification → validation
 Landcover Classification — end‑to‑end pipeline with metrics/confusion matrix
 Quantum ML Demos — small notebooks with Qiskit for classification
+Adobe Photoshop- Album editing 
 
 Explore my pinned repos below for runnable demos, datasets, and screenshots.
 
