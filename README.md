@@ -18,6 +18,8 @@ Landcover Classification — end‑to‑end pipeline with metrics/confusion matr
 Quantum ML Demos — small notebooks with Qiskit for classification
 
 Explore my pinned repos below for runnable demos, datasets, and screenshots.
+
 Services (Freelance) - GIS automation scripts • Satellite image classification • Quick dashboards • Research prototyping
 Tech - Python · ArcGIS · ENVI · GDAL · rasterio · geopandas · scikit‑learn · Qiskit · Streamlit · Git
+
 Open to remote roles (India timezone) — freelance or full‑time.
